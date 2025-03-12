@@ -1,4 +1,6 @@
-Essa Lista aqui são os países que o usuário deve digitar na buscar para que o mapa apareça em destaque com a cor azul no mapa mundial. Tem que ser na língua inglesa.
+Essa Lista aqui sÃ£o os paÃ­ses que o usuÃ¡rio deve digitar na buscar para que o mapa apareÃ§a em destaque com a cor azul no mapa mundial. Tem que ser 
+
+na lÃ­ngua inglesa.
 
 Afghanistan
 Albania
@@ -18,7 +20,7 @@ Barbados
 Belarus
 Belgium
 Belize
-Benin   
+Benin Â  
 Bhutan
 Bolivia
 Bosnia and Herzegovina
@@ -36,12 +38,11 @@ Central African Republic
 Chad
 Chile
 China
-Colombia   
+Colombia Â  
 Comoros
 Congo, Democratic Republic of the
 Congo, Republic of the
 Costa Rica
-Cote d'Ivoire
 Croatia
 Cuba
 Cyprus
@@ -49,13 +50,13 @@ Czech Republic
 Denmark
 Djibouti
 Dominica
-Dominican Republic   
+Dominican Republic Â  
 Ecuador
 Egypt
 El Salvador
 Equatorial Guinea
 Eritrea
-Estonia   
+Estonia Â  
 Ethiopia
 Fiji
 Finland
@@ -75,19 +76,20 @@ Haiti
 Honduras
 Hungary
 Iceland
-India   
+India Â  
 Indonesia
 Iran
 Iraq
 Ireland
 Israel
 Italy
+Ivory Coast
 Jamaica
 Japan
 Jordan
 Kazakhstan
 Kenya
-Kiribati   
+Kiribati Â  
 Kosovo
 Kuwait
 Kyrgyzstan
@@ -101,7 +103,7 @@ Luxembourg
 Madagascar
 Malawi
 Malaysia
-Maldives   
+Maldives Â  
 Mali
 Malta
 Marshall Islands
@@ -113,7 +115,7 @@ Moldova
 Mongolia
 Montenegro
 Morocco
-Mozambique   
+Mozambique Â  
 Myanmar
 Namibia
 Nauru
@@ -122,7 +124,7 @@ Netherlands
 New Zealand
 Nicaragua
 Niger
-Nigeria   
+Nigeria Â  
 North Korea
 North Macedonia
 Norway
@@ -147,7 +149,7 @@ Samoa
 Sao Tome and Principe
 Saudi Arabia
 Senegal
-Serbia   
+Serbia Â  
 Seychelles
 Sierra Leone
 Singapore
@@ -156,7 +158,7 @@ Slovenia
 Solomon Islands
 Somalia
 South Africa
-South Korea   
+South Korea Â  
 South Sudan
 Spain
 Sri Lanka
@@ -172,7 +174,7 @@ Thailand
 Timor-Leste
 Togo
 Tonga
-Trinidad and Tobago   
+Trinidad and Tobago Â  
 Tunisia
 Turkey
 Turkmenistan
@@ -181,7 +183,7 @@ Uganda
 Ukraine
 United Arab Emirates
 United Kingdom
-United States of America   
+United States of America Â  
 Uruguay
 Uzbekistan
 Vanuatu
@@ -189,4 +191,4 @@ Venezuela
 Vietnam
 Yemen
 Zambia
-Zimbabwe   
+Zimbabwe Â  
